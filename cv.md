@@ -31,4 +31,4 @@ Student of computer science.
 
  ## English level
 
- B1
+ B1.
