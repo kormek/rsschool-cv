@@ -1,1 +1,1 @@
-https://github.com/kormek/rsschool-cv/cv
+https://github.com/kormek/rsschool-cv/c
